@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p24152-e1301088.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    url: "https://author-p24152-e1301088.adobeaemcloud.com/bin/franklin.delivery/sujata-kumari-gspann/phenomenex-new/main"
     type: "markup"
     suffix: ".html"
